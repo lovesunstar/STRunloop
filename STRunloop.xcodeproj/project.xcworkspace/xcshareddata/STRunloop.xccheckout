@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9FFA1D5B-D6F9-4DDD-AA44-56974009E638</string>
+	<key>IDESourceControlProjectName</key>
+	<string>STRunloop</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>03ECE2F4BC552402D85D7774A1929E9D975DC479</key>
+		<string>https://bitbucket.org/lovesunstar/stworkspace.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>STRunloop/STRunloop.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>03ECE2F4BC552402D85D7774A1929E9D975DC479</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/lovesunstar/stworkspace.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>03ECE2F4BC552402D85D7774A1929E9D975DC479</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>03ECE2F4BC552402D85D7774A1929E9D975DC479</string>
+			<key>IDESourceControlWCCName</key>
+			<string>stworkspace</string>
+		</dict>
+	</array>
+</dict>
+</plist>
